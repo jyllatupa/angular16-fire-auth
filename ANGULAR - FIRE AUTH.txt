@@ -1,0 +1,6 @@
+ANGULAR - FIRE AUTH
+-------------------
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+npm i @angular/fire ---no
+ng add @angular/fire
